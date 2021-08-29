@@ -6,13 +6,17 @@ Create a dashboard and uncover trends and problem areas.
 ## Dashborad Analysis/Findings
 The dashboard shows the different types of: 
 
-customers
+#### Customers
 ![customer type](images/customers.png)
 
-trip information
+
+
+#### Trip Information
 ![trips](images/trips.png)
 
-station info
+
+
+#### Station Info
 ![starting stations](images/starting_stations.png)
 
 Click the link to find the workbook.
