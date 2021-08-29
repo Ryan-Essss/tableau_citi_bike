@@ -1,6 +1,7 @@
 # Citi Bike Analysis - Tableau
 
-Click the link to find the workbook.
+Click the link to find the workbook:
+
 https://public.tableau.com/app/profile/ryan.sabon/viz/CitiBike-TableauAssigment/Story1
 
 ## Objective
