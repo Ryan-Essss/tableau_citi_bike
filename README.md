@@ -4,7 +4,16 @@
 Create a dashboard and uncover trends and problem areas.
 
 ## Dashborad Analysis/Findings
-The dashboard shows the different types of customers, trip information, and station info.
+The dashboard shows the different types of: 
+
+customers
+![customer type](images/customers.png)
+
+trip information
+![trips](images/trips.png)
+
+station info
+![starting stations](images/starting_stations.png)
 
 Click the link to find the workbook.
 https://public.tableau.com/app/profile/ryan.sabon/viz/CitiBike-TableauAssigment/Story1
